@@ -74,7 +74,7 @@
 185.199.108.133               media.githubusercontent.com
 13.224.161.120 				  plugins.jetbrains.com
 
-192.168.79.162 wsl.local # wsl_hosts
+192.168.79.162 wsl.local # wsl_host
 192.168.79.161 win.local # win_hosts
 
 
